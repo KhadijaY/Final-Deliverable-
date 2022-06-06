@@ -9,8 +9,11 @@ Through further analyis of our dataset we seek to answer the following questions
 
 2. What variations are seen in terms of the number of deaths due to COVID?
 
-3. How has COVID impacted minority communities? 
-
 # Summary Takeaways
-<img width="700" alt="Screen Shot 2022-06-05 at 11 07 18 PM" src="https://user-images.githubusercontent.com/104712405/172106712-7237917b-bc42-44cd-a1ec-e0a6014d2a08.png">
-Using a bar plot of the data, we were able to make a visual observation that to higher rates of deaths due to covid appear to be most prevelent in the white population. Whiel Non-hispanic and Black populations followed closely second and third, showing that they were also heavily impacted by COVID-19
+
+<img width="600" alt="Screen Shot 2022-06-05 at 11 07 18 PM" src="https://user-images.githubusercontent.com/104712405/172106712-7237917b-bc42-44cd-a1ec-e0a6014d2a08.png">
+
+Using the barplot above of the data, we were able to make a visual observation that higher rates of deaths due to covid appear to be most prevelent in the white population. While Non-hispanic and Black populations followed closely second and third, showing that they were also heavily impacted by COVID-19.
+
+
+In addition while analyzing states data as compared to demographic, it was clear that COVID impacts by deaths varied in race, possibly due to varations in population. For example, the dataset showed that the state with the most COVID deaths was Wyoming, which is a prodominatly White state and thus could account for the higher number of deaths reported by the CDC.
