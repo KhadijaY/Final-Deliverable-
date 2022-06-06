@@ -9,7 +9,7 @@ Through further analysis of our dataset we seek to answer the following question
 
 2. What variations are seen in terms of the number of deaths due to COVID?
 
-# Summary Takeaways
+# Summary-Takeaways
 
 <img width="600" alt="Screen Shot 2022-06-05 at 11 07 18 PM" src="https://user-images.githubusercontent.com/104712405/172106712-7237917b-bc42-44cd-a1ec-e0a6014d2a08.png">
 
