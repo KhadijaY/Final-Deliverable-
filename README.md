@@ -5,7 +5,9 @@
 Our project is looking at the incidence rates of COVID-19  within our nations states and more specifically its impacts on the racial demographics within them. The dataset we used is directly collected from the CDC study titled ' Distribution of COVID-19 Deaths and Populations, by Judrisdiction, Age, and Race and Hispanic Origin'. This dataset has effectively shown us the Distribution of COVID death rates by race and has allowed us to compare and contrast cateogories in depth as you will see within our interactive pages. The questions we seek to answer are:
 
 1. "How does the difference in weighted distribution of populations within the states affect the incidence rates of COVID-19?" 
+
 2."Which racial demographics have the highest/lowest COVID-19 incidence rates?"
+
 3."What variations are seen in terms of the distrubtion of COVID-19 deaths?"
 
 # Summary-Takeaways
