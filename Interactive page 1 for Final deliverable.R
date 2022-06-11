@@ -19,7 +19,10 @@ Covid_Dem<- read.csv("https://raw.githubusercontent.com/narditek/Exploratory-Ana
 
 # Define UI for application that draws a density graph
 ui <- fluidPage(
-  
+  h1("Density Plot Graph on Distribution of Covid-19 Deaths"), 
+  h5("This interactive Graph is a density plot graph and we are using this to see the a visual representation of the distribution of Covid-19 deaths.
+and we nee noticed that it was skewed to the left, meaning that more of the values are concentrated towards the left"),
+   
   # Application title
   titlePanel("Distribution of Covid Death"),
   
